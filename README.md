@@ -18,6 +18,6 @@ Desafio Phishing do curso DIO Cybersecurity
 - URL para clone: http://www.facebook.com
 
 ### Resutados
-![passwd](https://github.com/fukudahenrique/dio-cibersecurity-desafio-phishing/assets/45298625/fd9416b4-0084-45cf-869e-dc51322f100b)
+![passwd](passwd.png)
 
 *Utilizado como base https://github.com/cassiano-dio/cibersecurity-desafio-phishing
