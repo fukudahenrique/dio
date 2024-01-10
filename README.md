@@ -1,2 +1,2 @@
-# dio
-Cursos DIO
+# DIO
+Repositórios dos cursos DIO
